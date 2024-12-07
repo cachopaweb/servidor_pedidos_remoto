@@ -1,0 +1,15 @@
+{
+	"name": "ServidorPedidosRemoto",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {
+		"github.com/hashload/horse": "^3.1.6",
+		"github.com/hashload/horse-cors": "^1.0.6",
+		"github.com/hashload/jhonson": "^1.1.9",
+		"https://github.com/cachopaweb/portalorm": "^v1.0.23",
+		"https://github.com/gabrielbaltazar/gbswagger": "^3.0.7"
+	}
+}
